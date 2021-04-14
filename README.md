@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 Adding a line of test text
 
-More changes
+Updating for emergency fix
 
 ## Purpose
 
