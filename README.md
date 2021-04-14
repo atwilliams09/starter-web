@@ -21,3 +21,6 @@ this is an example
 ##How To Contribute
 
 Please fork this repository and then issue pull requests for review
+
+##Copyright
+2021 Git.Traing. All right reserved.
