@@ -13,3 +13,7 @@ this is an example
 ##Copyright
 
 2021 Git.Training
+
+##How To Contribute
+
+Please fork this repository and then issue pull requests for review
